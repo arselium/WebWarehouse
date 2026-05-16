@@ -1,0 +1,63 @@
+[
+  {
+    "ContainingType": "WebOptimize.API.Endpoints.OptimizationEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapOptimizationEndpoints\u003Eb__0_0",
+    "RelativePath": "api/optimize",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "WebOptimize.Application.DTOs.OptimizationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "OptimizeDistribution"
+  },
+  {
+    "ContainingType": "WebOptimize.API.Endpoints.OptimizationEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapOptimizationEndpoints\u003Eb__0_2",
+    "RelativePath": "api/pickuppoints",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[WebOptimize.Domain.Entities.PickupPoint, WebOptimize, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetPickupPoints"
+  },
+  {
+    "ContainingType": "WebOptimize.API.Endpoints.OptimizationEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapOptimizationEndpoints\u003Eb__0_1",
+    "RelativePath": "api/warehouses",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[WebOptimize.Domain.Entities.Warehouse, WebOptimize, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWarehouses"
+  }
+]

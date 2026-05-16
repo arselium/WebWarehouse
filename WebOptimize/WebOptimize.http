@@ -1,0 +1,6 @@
+@WebOptimize_HostAddress = http://localhost:5119
+
+GET {{WebOptimize_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
