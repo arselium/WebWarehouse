@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{E9C1DFCF-3906-430F-8C29-16DAC049F689}|WebOptimize\\WebOptimize.csproj|solutionrelative:weboptimize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E9C1DFCF-3906-430F-8C29-16DAC049F689}|WebOptimize\\WebOptimize.csproj|e:\\programming\\vuzpr\\weboptimize\\weboptimize\\api\\endpoints\\optimizationendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C1DFCF-3906-430F-8C29-16DAC049F689}|WebOptimize\\WebOptimize.csproj|solutionrelative:weboptimize\\api\\endpoints\\optimizationendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E9C1DFCF-3906-430F-8C29-16DAC049F689}|WebOptimize\\WebOptimize.csproj|e:\\programming\\vuzpr\\weboptimize\\weboptimize\\weboptimize.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E9C1DFCF-3906-430F-8C29-16DAC049F689}|WebOptimize\\WebOptimize.csproj|solutionrelative:weboptimize\\weboptimize.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -59,10 +63,6 @@
       "RelativeMoniker": "D:0:0:{E9C1DFCF-3906-430F-8C29-16DAC049F689}|WebOptimize\\WebOptimize.csproj|solutionrelative:weboptimize\\application\\dtos\\optimizationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9C1DFCF-3906-430F-8C29-16DAC049F689}|WebOptimize\\WebOptimize.csproj|e:\\programming\\vuzpr\\weboptimize\\weboptimize\\api\\endpoints\\optimizationendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9C1DFCF-3906-430F-8C29-16DAC049F689}|WebOptimize\\WebOptimize.csproj|solutionrelative:weboptimize\\api\\endpoints\\optimizationendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E9C1DFCF-3906-430F-8C29-16DAC049F689}|WebOptimize\\WebOptimize.csproj|e:\\programming\\vuzpr\\weboptimize\\weboptimize\\weboptimize.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{E9C1DFCF-3906-430F-8C29-16DAC049F689}|WebOptimize\\WebOptimize.csproj|solutionrelative:weboptimize\\weboptimize.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
@@ -78,37 +78,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PickupPoint.cs",
-              "DocumentMoniker": "E:\\Programming\\vuzpr\\WebOptimize\\WebOptimize\\Domain\\Entities\\PickupPoint.cs",
-              "RelativeDocumentMoniker": "WebOptimize\\Domain\\Entities\\PickupPoint.cs",
-              "ToolTip": "E:\\Programming\\vuzpr\\WebOptimize\\WebOptimize\\Domain\\Entities\\PickupPoint.cs",
-              "RelativeToolTip": "WebOptimize\\Domain\\Entities\\PickupPoint.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T15:18:11.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Shipment.cs",
-              "DocumentMoniker": "E:\\Programming\\vuzpr\\WebOptimize\\WebOptimize\\Domain\\Entities\\Shipment.cs",
-              "RelativeDocumentMoniker": "WebOptimize\\Domain\\Entities\\Shipment.cs",
-              "ToolTip": "E:\\Programming\\vuzpr\\WebOptimize\\WebOptimize\\Domain\\Entities\\Shipment.cs",
-              "RelativeToolTip": "WebOptimize\\Domain\\Entities\\Shipment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T15:20:44.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Warehouse.cs",
               "DocumentMoniker": "E:\\Programming\\vuzpr\\WebOptimize\\WebOptimize\\Domain\\Entities\\Warehouse.cs",
               "RelativeDocumentMoniker": "WebOptimize\\Domain\\Entities\\Warehouse.cs",
@@ -116,12 +90,11 @@
               "RelativeToolTip": "WebOptimize\\Domain\\Entities\\Warehouse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T15:17:16.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-15T15:17:16.976Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Location.cs",
               "DocumentMoniker": "E:\\Programming\\vuzpr\\WebOptimize\\WebOptimize\\Domain\\ValueObjects\\Location.cs",
               "RelativeDocumentMoniker": "WebOptimize\\Domain\\ValueObjects\\Location.cs",
@@ -129,12 +102,11 @@
               "RelativeToolTip": "WebOptimize\\Domain\\ValueObjects\\Location.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T15:18:52.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-15T15:18:52.543Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "OptimizationService.cs",
               "DocumentMoniker": "E:\\Programming\\vuzpr\\WebOptimize\\WebOptimize\\Application\\Services\\OptimizationService.cs",
               "RelativeDocumentMoniker": "WebOptimize\\Application\\Services\\OptimizationService.cs",
@@ -142,12 +114,11 @@
               "RelativeToolTip": "WebOptimize\\Application\\Services\\OptimizationService.cs",
               "ViewState": "AgIAAE8AAAAAAAAAAAAgwFwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T15:22:31.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-15T15:22:31.449Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "E:\\Programming\\vuzpr\\WebOptimize\\WebOptimize\\Infrastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "WebOptimize\\Infrastructure\\Data\\AppDbContext.cs",
@@ -155,12 +126,11 @@
               "RelativeToolTip": "WebOptimize\\Infrastructure\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T15:24:58.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-15T15:24:58.108Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "WarehouseRepository.cs",
               "DocumentMoniker": "E:\\Programming\\vuzpr\\WebOptimize\\WebOptimize\\Infrastructure\\Repositories\\WarehouseRepository.cs",
               "RelativeDocumentMoniker": "WebOptimize\\Infrastructure\\Repositories\\WarehouseRepository.cs",
@@ -168,12 +138,11 @@
               "RelativeToolTip": "WebOptimize\\Infrastructure\\Repositories\\WarehouseRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T15:29:23.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-15T15:29:23.124Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "OptimizationServiceTests.cs",
               "DocumentMoniker": "E:\\Programming\\vuzpr\\WebOptimize\\WebOptimize\\WebOptimize.Tests\\OptimizationServiceTests.cs",
               "RelativeDocumentMoniker": "WebOptimize\\WebOptimize.Tests\\OptimizationServiceTests.cs",
@@ -181,12 +150,11 @@
               "RelativeToolTip": "WebOptimize\\WebOptimize.Tests\\OptimizationServiceTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T16:34:39.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-15T16:34:39.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Programming\\vuzpr\\WebOptimize\\WebOptimize\\appsettings.json",
               "RelativeDocumentMoniker": "WebOptimize\\appsettings.json",
@@ -194,8 +162,7 @@
               "RelativeToolTip": "WebOptimize\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-15T15:50:44.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-15T15:50:44.946Z"
             },
             {
               "$type": "Document",
@@ -205,14 +172,14 @@
               "RelativeDocumentMoniker": "WebOptimize\\Program.cs",
               "ToolTip": "E:\\Programming\\vuzpr\\WebOptimize\\WebOptimize\\Program.cs",
               "RelativeToolTip": "WebOptimize\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-14T19:02:19.174Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "WebOptimize.csproj",
               "DocumentMoniker": "E:\\Programming\\vuzpr\\WebOptimize\\WebOptimize\\WebOptimize.csproj",
               "RelativeDocumentMoniker": "WebOptimize\\WebOptimize.csproj",
@@ -220,12 +187,48 @@
               "RelativeToolTip": "WebOptimize\\WebOptimize.csproj",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-15T15:10:47.133Z",
+              "WhenOpened": "2026-05-15T15:10:47.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OptimizationEndpoints.cs",
+              "DocumentMoniker": "E:\\Programming\\vuzpr\\WebOptimize\\WebOptimize\\API\\Endpoints\\OptimizationEndpoints.cs",
+              "RelativeDocumentMoniker": "WebOptimize\\API\\Endpoints\\OptimizationEndpoints.cs",
+              "ToolTip": "E:\\Programming\\vuzpr\\WebOptimize\\WebOptimize\\API\\Endpoints\\OptimizationEndpoints.cs",
+              "RelativeToolTip": "WebOptimize\\API\\Endpoints\\OptimizationEndpoints.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T15:30:02.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
+              "Title": "Shipment.cs",
+              "DocumentMoniker": "E:\\Programming\\vuzpr\\WebOptimize\\WebOptimize\\Domain\\Entities\\Shipment.cs",
+              "RelativeDocumentMoniker": "WebOptimize\\Domain\\Entities\\Shipment.cs",
+              "ToolTip": "E:\\Programming\\vuzpr\\WebOptimize\\WebOptimize\\Domain\\Entities\\Shipment.cs",
+              "RelativeToolTip": "WebOptimize\\Domain\\Entities\\Shipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T15:20:44.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PickupPoint.cs",
+              "DocumentMoniker": "E:\\Programming\\vuzpr\\WebOptimize\\WebOptimize\\Domain\\Entities\\PickupPoint.cs",
+              "RelativeDocumentMoniker": "WebOptimize\\Domain\\Entities\\PickupPoint.cs",
+              "ToolTip": "E:\\Programming\\vuzpr\\WebOptimize\\WebOptimize\\Domain\\Entities\\PickupPoint.cs",
+              "RelativeToolTip": "WebOptimize\\Domain\\Entities\\PickupPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T15:18:11.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "IOptimizationService.cs",
               "DocumentMoniker": "E:\\Programming\\vuzpr\\WebOptimize\\WebOptimize\\Application\\Interfaces\\IOptimizationService.cs",
               "RelativeDocumentMoniker": "WebOptimize\\Application\\Interfaces\\IOptimizationService.cs",
@@ -233,12 +236,11 @@
               "RelativeToolTip": "WebOptimize\\Application\\Interfaces\\IOptimizationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T15:21:55.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-15T15:21:55.116Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "OptimizationResponse.cs",
               "DocumentMoniker": "E:\\Programming\\vuzpr\\WebOptimize\\WebOptimize\\Application\\DTOs\\OptimizationResponse.cs",
               "RelativeDocumentMoniker": "WebOptimize\\Application\\DTOs\\OptimizationResponse.cs",
@@ -246,12 +248,11 @@
               "RelativeToolTip": "WebOptimize\\Application\\DTOs\\OptimizationResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T15:21:33.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-15T15:21:33.616Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "OptimizationRequest.cs",
               "DocumentMoniker": "E:\\Programming\\vuzpr\\WebOptimize\\WebOptimize\\Application\\DTOs\\OptimizationRequest.cs",
               "RelativeDocumentMoniker": "WebOptimize\\Application\\DTOs\\OptimizationRequest.cs",
@@ -259,21 +260,7 @@
               "RelativeToolTip": "WebOptimize\\Application\\DTOs\\OptimizationRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T15:21:10.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "OptimizationEndpoints.cs",
-              "DocumentMoniker": "E:\\Programming\\vuzpr\\WebOptimize\\WebOptimize\\API\\Endpoints\\OptimizationEndpoints.cs",
-              "RelativeDocumentMoniker": "WebOptimize\\API\\Endpoints\\OptimizationEndpoints.cs",
-              "ToolTip": "E:\\Programming\\vuzpr\\WebOptimize\\WebOptimize\\API\\Endpoints\\OptimizationEndpoints.cs",
-              "RelativeToolTip": "WebOptimize\\API\\Endpoints\\OptimizationEndpoints.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwAoAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T15:30:02.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-15T15:21:10.805Z"
             },
             {
               "$type": "Document",

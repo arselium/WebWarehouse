@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebOptimize")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b04d46acb71d6b33fddb88aa59a836dd7d81b1d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0038e6e70bb12c2094f3ba71aea36b6c66224097")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebOptimize")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebOptimize")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

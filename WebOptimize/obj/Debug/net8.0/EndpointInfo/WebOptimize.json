@@ -33,7 +33,7 @@
         "tags": [
           "WebOptimize"
         ],
-        "operationId": "GetWarehouses",
+        "operationId": "GetAllWarehouses",
         "responses": {
           "200": {
             "description": "OK",
@@ -49,6 +49,105 @@
             }
           }
         }
+      },
+      "post": {
+        "tags": [
+          "WebOptimize"
+        ],
+        "operationId": "CreateWarehouse",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Warehouse"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/warehouses/{id}": {
+      "get": {
+        "tags": [
+          "WebOptimize"
+        ],
+        "operationId": "GetWarehouseById",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "WebOptimize"
+        ],
+        "operationId": "UpdateWarehouse",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Warehouse"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "WebOptimize"
+        ],
+        "operationId": "DeleteWarehouse",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
       }
     },
     "/api/pickuppoints": {
@@ -56,7 +155,7 @@
         "tags": [
           "WebOptimize"
         ],
-        "operationId": "GetPickupPoints",
+        "operationId": "GetAllPickupPoints",
         "responses": {
           "200": {
             "description": "OK",
@@ -70,6 +169,27 @@
                 }
               }
             }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "WebOptimize"
+        ],
+        "operationId": "CreatePickupPoint",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PickupPoint"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
           }
         }
       }
